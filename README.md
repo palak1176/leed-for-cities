@@ -1,6 +1,4 @@
-# leed-for-cities
-LEED for Cities – Atlanta MSA Scraper
-
+# LEED for Cities – Atlanta MSA Scraper
 This script scrapes data from the U.S. Green Building Council (USGBC) LEED for Cities webpage and identifies Georgia cities participating in the program. It then filters those cities to return only those located within the Atlanta Metropolitan Statistical Area (MSA).
 
 What it does:
